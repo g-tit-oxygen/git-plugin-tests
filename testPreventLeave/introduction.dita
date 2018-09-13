@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="introduction">
-    <title>odd</title>
+    <title><?oxy_delete author="Gigel" timestamp="20180913T105205+0300" content="odd"?><?oxy_insert_start author="Gigel" timestamp="20180913T105205+0300"?>ddo<?oxy_insert_end?></title>
     <shortdesc>With just a little bit of care and preparation, any flower garden can be a vibrantly
         colored environment.</shortdesc>
     <body>
