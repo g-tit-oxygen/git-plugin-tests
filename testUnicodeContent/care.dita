@@ -3,6 +3,7 @@
 <topic id="care">
     <shortdesc>When caring for your flower garden you want to feed your plants properly, control
         pests and weeds.</shortdesc>
+    <title>⚗__</title>
     <body>
         <p>When caring for your flower garden you want to feed your plants properly, control pests
             and weeds. Good soil is a must to successful gardening, landscaping, and healthy
@@ -14,7 +15,7 @@
             of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
         <p>
             <table frame="none">
-                <title/>
+                <title></title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
                     <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
